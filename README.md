@@ -268,3 +268,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
+- #### Maps and Geolocation
+- **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
+- **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
+- **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
