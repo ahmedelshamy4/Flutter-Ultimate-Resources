@@ -13,6 +13,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Libraries and Tools](#libraries-and-tools)
 - [Podcasts](#podcasts)
 - [Icons](#icons)
+- [Colors](#colors)
 ---
 
 ### Official Documentation
@@ -224,5 +225,8 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## Icons
 - [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
 ---
-
+---
+## Colors
+- [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
+---
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
