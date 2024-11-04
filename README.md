@@ -162,6 +162,31 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Academind's Flutter - The Complete Guide](https://academind.com) - Comprehensive course covering all Flutter fundamentals
 - [App Brewery - Complete Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Beginner to advanced level
 
+## Podcasts
+- [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
+- [Universo Flutter](https://open.spotify.com/show/4AlxqGkkrqe0mfIx3Mi7Xt)
+---
+## Icons
+- [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
+---
+## Colors
+- [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
+---
+## Articles
+- [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
+- [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
+- [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
+- [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
+- [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
+---
+## Community
+- [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
+- [Discord](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
+- [Stack Overflow](https://stackoverflow.com/tags/flutter), Find answers to pressing questions on Stack Overflow.
+- [Reddit](https://www.reddit.com/r/FlutterDev/?rdt=39725), Join the subreddit for discussions around every aspect of Flutter.
+- [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
+- [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
+---
 ### Libraries and Tools
 ## State Management
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
@@ -217,33 +242,5 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
-
----
-
-## Podcasts
-- [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
-- [Universo Flutter](https://open.spotify.com/show/4AlxqGkkrqe0mfIx3Mi7Xt)
----
-## Icons
-- [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
----
-## Colors
-- [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
----
----
-## Articles
-- [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
-- [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
-- [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
-- [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
-- [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
----
-## Community
-- [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
-- [Discord](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
-- [Stack Overflow](https://stackoverflow.com/tags/flutter), Find answers to pressing questions on Stack Overflow.
-- [Reddit](https://www.reddit.com/r/FlutterDev/?rdt=39725), Join the subreddit for discussions around every aspect of Flutter.
-- [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
-- [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
 ---
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
