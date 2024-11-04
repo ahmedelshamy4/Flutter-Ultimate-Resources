@@ -73,7 +73,37 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>Flutter Mapp</span>
   </a>  
-  *Flutter is a UI Toolkit built by Google which use Dart programming Language and is used to build any Mobile Apps. We code Flutter apps on the channel and make coding related videos.*
+  * We code Flutter apps on the channel and make coding related videos.*
+
+- <a href="https://www.youtube.com/@Code2Start/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Code2Start</span>
+  </a>  
+  *Arabic course on Flutter. Learn the most in-demand coding skills and newest technologies with Code2Start.by Mohamed Fathy Taha*
+
+- <a href="https://www.youtube.com/@HeyFlutter" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>HeyFlutter</span>
+  </a>  
+  *Leading Flutter Development*
+
+- <a href="https://www.youtube.com/@FlutterExplained/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Flutter Explained</span>
+  </a>  
+  *Wikipedia for Flutter development*
+
+- <a href="https://www.youtube.com/@ResoCoder" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Reso Coder</span>
+  </a>  
+  *Flutter is changing the app development scene*
+
+- <a href="https://www.youtube.com/@RobertBrunhage/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Robert Brunhage</span>
+  </a>  
+  *I'm Robert Brunhage from Sweden, a Software Engineer, Designer and a Flutter and Dart GDE who makes a lot of cool projects with tools like Flutter (we even made a game with it).*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
