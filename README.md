@@ -152,7 +152,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Flutter Gems](https://fluttergems.dev/) -  A curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality.
 
 ### Books
-- [https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/) - A thorough guide for building production-ready Flutter apps
+- [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 
 ### Courses
 - [Udacity Flutter Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Free course on Flutter basics
