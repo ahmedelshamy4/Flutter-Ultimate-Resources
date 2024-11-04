@@ -14,6 +14,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Podcasts](#podcasts)
 - [Icons](#icons)
 - [Colors](#colors)
+- [Community](#community)
 ---
 
 ### Official Documentation
@@ -225,8 +226,16 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## Icons
 - [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
 ---
----
 ## Colors
 - [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
+
+## Community
+- [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
+- [Discord](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
+- [Stack Overflow](https://stackoverflow.com/tags/flutter), Find answers to pressing questions on Stack Overflow.
+- [Reddit](https://www.reddit.com/r/FlutterDev/?rdt=39725), Join the subreddit for discussions around every aspect of Flutter.
+- [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
+- [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
+
 ---
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
