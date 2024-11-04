@@ -195,6 +195,9 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## Notifications
 - **[firebase_messaging](https://pub.dev/packages/firebase_messaging)**: Supports push notifications using Firebase Cloud Messaging.
 - **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
+## Internationalization (i18n)
+- **[intl](https://pub.dev/packages/intl)**: Provides internationalization and localization, allowing for date formatting, number formatting, and messages in different languages.
+- **[flutter_localizations](https://pub.dev/packages/flutter_localization)**: : Official localization package by Flutter, useful for localizing your app with pre-built locale data.
 
 
 ---
