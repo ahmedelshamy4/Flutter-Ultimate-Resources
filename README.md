@@ -269,4 +269,10 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
+#### Analytics and Crash Reporting
+- **[firebase_analytics](https://pub.dev/packages/firebase_analytics)**: Firebase Analytics integration for tracking user behavior.
+- **[sentry_flutter](https://pub.dev/packages/sentry_flutter)**: Provides error and crash reporting to monitor your app's health.
+#### App Configuration
+- **[flutter_dotenv](https://pub.dev/packages/flutter_dotenv)**: Loads environment variables from a .env file, allowing for configuration changes without hardcoding values.
+- **[app_settings](https://pub.dev/packages/app_settings)**: Opens device settings directly from the app, useful for enabling permissions or changing settings.
 ---
