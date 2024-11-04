@@ -144,6 +144,12 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span>Karem Ebrahim</span>
   </a>  
   * Flutter Learn YouTube channel Always building stuff 👉*
+  
+- <a href="https://www.youtube.com/@Romain_Girou/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Romain Girou</span>
+  </a>  
+  * Building a community of free and empowered people.👉*
 ---
 ## Blogs
 - [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
@@ -182,7 +188,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ---
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
-- [Discord](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
+- [Community Slack](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
 - [Stack Overflow](https://stackoverflow.com/tags/flutter), Find answers to pressing questions on Stack Overflow.
 - [Reddit](https://www.reddit.com/r/FlutterDev/?rdt=39725), Join the subreddit for discussions around every aspect of Flutter.
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
