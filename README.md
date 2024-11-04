@@ -16,6 +16,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Colors](#colors)
 - [Community](#community)
 - [Articles](#articles)
+- [Channels](#channels)
 ---
 
 ## Official Documentation
@@ -187,56 +188,59 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
 - [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
 ---
+## Channels
+- [Learn Flutter](https://t.me/pathto_flutter), a curated Telegram Channel with the latest news, articles, or learning resources, on a daily basis.
+---
 ## Libraries and Tools
-### State Management
+#### State Management
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
 - **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
 - **[Riverpod](https://riverpod.dev/)**: A more modern, flexible, and safer version of Provider with better testability and compile-time safety.
-### HTTP and Networking
+#### HTTP and Networking
 - **[Dio](https://pub.dev/packages/dio)**: A powerful HTTP client for Dart, supporting interceptors, global configuration, FormData, and more.
 - **[http](https://pub.dev/packages/http)**: A basic, easy-to-use HTTP client for making network requests.
 - **[GraphQL](https://pub.dev/packages/graphql_flutter)**: A GraphQL client for Flutter, making it easy to query and mutate data with GraphQL APIs.
-### JSON Serialization
+#### JSON Serialization
 - **[json_serializable](https://pub.dev/packages/json_serializable)**: A code generation library to make JSON serialization easier and more consistent.
 - **[built_value](https://pub.dev/packages/built_value)**: A library for building immutable objects and managing JSON serialization with code generation.
-### Code Generation
+#### Code Generation
 - **[build_runner](https://pub.dev/packages/build_runner)**: Essential for generating code in Flutter projects, often used with other packages like json_serializable.
-### Dependency Injection
+#### Dependency Injection
 - **[GetIt](https://pub.dev/packages/get_it)**: A service locator for dependency injection, useful for managing dependencies and singleton instances.
 - **[injectable](https://pub.dev/packages/injectable)**: A code generation library to make dependency injection easier when using GetIt.
-### UI Components
+#### UI Components
 - **[Flutter SVG](https://pub.dev/packages/flutter_svg)**: A library to render SVG files in Flutter.
 - **[cached_network_image](https://pub.dev/packages/cached_network_image)**: Caches network images to reduce data usage and improve performance.
 - **[shimmer](https://pub.dev/packages/shimmer)**: Adds a shimmer effect while loading content, providing a smoother loading experience.
-### Testing
+#### Testing
 - **[mockito](https://pub.dev/packages/mockito)**: A popular library for creating mock objects in Dart tests.
 - **[flutter_test](https://pub.dev/packages/flutter_test)**: The official Flutter testing package for unit, widget, and integration tests.
 - **[bloc_test](https://pub.dev/packages/bloc_test)**: A testing library specifically for BLoC, allowing easy testing of events and states.
-### Dev Tools
+#### Dev Tools
 - **[Flutter DevTools](https://flutter.dev/docs/development/tools/devtools/overview)**: A suite of performance and debugging tools for Flutter apps.
 - **[FVM (Flutter Version Management)](https://pub.dev/packages/fvm)**: A tool for managing multiple Flutter SDK versions on a single machine.
-### Animation and Motion
+#### Animation and Motion
 - **[Lottie](https://pub.dev/packages/lottie)**: A library for rendering JSON-based animations (from After Effects) in Flutter.
 - **[rive](https://pub.dev/packages/rive)**: An animation library for interactive vector animations created with Rive.
-### Database and Storage
+#### Database and Storage
 - **[Shared Preferences](https://pub.dev/packages/shared_preferences)**: A simple way to persist key-value pairs locally on a device.
 - **[floor](https://pub.dev/packages/floor)**: Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library.
-### Notifications
+#### Notifications
 - **[firebase_messaging](https://pub.dev/packages/firebase_messaging)**: Supports push notifications using Firebase Cloud Messaging.
 - **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
-### Internationalization (i18n)
+#### Internationalization (i18n)
 - **[intl](https://pub.dev/packages/intl)**: Provides internationalization and localization, allowing for date formatting, number formatting, and messages in different languages.
 - **[flutter_localizations](https://pub.dev/packages/flutter_localization)**: Official localization package by Flutter, useful for localizing your app with pre-built locale data.
-### Security and Encryption
+#### Security and Encryption
 - **[flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)**: Provides a secure storage solution for storing sensitive data like tokens and passwords.
 - **[encrypt](https://pub.dev/packages/encrypt)**: A package for encrypting and decrypting data, useful for securing sensitive information.
 - **[biometric_storage](https://pub.dev/packages/biometric_storage)**: Adds biometric authentication to securely store sensitive information.
-### Audio and Video
+#### Audio and Video
 - **[just_audio](https://pub.dev/packages/just_audio)**: A simple yet powerful audio player for Flutter, suitable for music and podcasts.
 - **[audioplayers](https://pub.dev/packages/audioplayers)**: An easy-to-use audio player package supporting multiple formats.
 - **[video_player](https://pub.dev/packages/video_player)**: An official Flutter plugin for playing videos, both online and offline.
 - **[chewie](https://pub.dev/packages/chewie)**: A customizable video player for Flutter built on top of video_player.
-### Permissions
+#### Permissions
 - **[permission_handler](https://pub.dev/packages/permission_handler)**: A plugin to request and manage permissions in Flutter, such as camera, location, and storage access.
 #### Maps and Geolocation
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
