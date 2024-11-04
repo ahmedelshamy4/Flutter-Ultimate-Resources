@@ -207,6 +207,8 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[audioplayers](https://pub.dev/packages/audioplayers)**: An easy-to-use audio player package supporting multiple formats.
 - **[video_player](https://pub.dev/packages/video_player)**: An official Flutter plugin for playing videos, both online and offline.
 - **[chewie](https://pub.dev/packages/chewie)**: A customizable video player for Flutter built on top of video_player.
+## Permissions
+- **[permission_handler](https://pub.dev/packages/permission_handler)**: A plugin to request and manage permissions in Flutter, such as camera, location, and storage access.
 
 
 
