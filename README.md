@@ -3,8 +3,6 @@
 
 Welcome to **Flutter Ultimate Resources**! This repository is a collection of the best learning materials and resources for mastering Flutter. You'll find a comprehensive list of content from beginner to advanced levels across various formats, including documentation, YouTube channels, blogs, books, and more.
 
-If you find this repository helpful, please feel free to support it by giving it a ⭐!
-
 ---
 ## Contents
 - [Official Documentation](#official-documentation)
@@ -23,6 +21,18 @@ If you find this repository helpful, please feel free to support it by giving it
 - [Flutter API Reference](https://api.flutter.dev/)
 
 ### YouTube Channels
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) The Net Ninja - Flutter & Dart](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0d_aBmBWz8yVMiuJ3-)  
+  *Covers Flutter basics and advanced topics.*
+
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) Academind - Flutter & Firebase](https://www.youtube.com/playlist?list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)  
+  *Learn to integrate Firebase with Flutter, including Firestore, Authentication, and Storage.*
+
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) Fireship.io - Flutter Tips](https://www.youtube.com/playlist?list=PL0vfts4VzfNi9TrOs-20Evg48qh5aM-xq)  
+  *Get quick, in-depth tips on various Flutter concepts.*
+
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) Flutter - Official YouTube Channel](https://www.youtube.com/flutterdev)  
+  *Official channel from the Flutter team, featuring tutorials, event recordings, and updates.*
+
 - [Flutter](https://www.youtube.com/@flutterdev) - The official Flutter channel
 - [Fireship](https://www.youtube.com/c/Fireship) - Quick, high-energy Flutter tutorials
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - Complete Flutter series for beginners
