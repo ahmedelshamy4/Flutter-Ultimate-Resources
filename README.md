@@ -275,4 +275,15 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 #### App Configuration
 - **[flutter_dotenv](https://pub.dev/packages/flutter_dotenv)**: Loads environment variables from a .env file, allowing for configuration changes without hardcoding values.
 - **[app_settings](https://pub.dev/packages/app_settings)**: Opens device settings directly from the app, useful for enabling permissions or changing settings.
+#### Development Utilities
+- **[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)**: Simplifies creating app launcher icons for both Android and iOS.
+- **[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)**:  A package to easily add a native splash screen to your app.
+#### Animation Libraries
+- **[fl_chart](https://pub.dev/packages/fl_chart)**: A powerful chart library that enables drawing beautiful, animated charts.
+- **[animated_text_kit](https://pub.dev/documentation/animated_text_kit/latest/)**:  Provides a collection of text animations like typewriter and color fade.
+- **[rive](https://pub.dev/packages/rive)**:  For creating interactive animations and vector graphics, ideal for complex animations with interactivity.
+#### Payment and In-App Purchases
+- **[in_app_purchase](https://pub.dev/packages/in_app_purchase)**:  A package for integrating in-app purchases on iOS and Android.
+- **[stripe_payment](https://pub.dev/documentation/stripe_payment/latest/)**:  Provides a simple way to integrate Stripe for payments, widely used in mobile apps.
+
 ---
