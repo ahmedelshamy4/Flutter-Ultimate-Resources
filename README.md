@@ -170,6 +170,8 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## JSON Serialization
 - **[json_serializable](https://pub.dev/packages/json_serializable)**: A code generation library to make JSON serialization easier and more consistent.
 - **[built_value](https://pub.dev/packages/built_value)**: A library for building immutable objects and managing JSON serialization with code generation.
+## Code Generation
+- **[build_runner](https://pub.dev/packages/build_runner)**: Essential for generating code in Flutter projects, often used with other packages like json_serializable.
 ## Dependency Injection
 - **[GetIt](https://pub.dev/packages/get_it)**: A service locator for dependency injection, useful for managing dependencies and singleton instances.
 - **[injectable](https://pub.dev/packages/injectable)**: A code generation library to make dependency injection easier when using GetIt.
@@ -188,8 +190,6 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[Lottie](https://pub.dev/packages/lottie)**: A library for rendering JSON-based animations (from After Effects) in Flutter.
 - **[rive](https://pub.dev/packages/rive)**: An animation library for interactive vector animations created with Rive.
 ## Database and Storage
-- **[Hive](https://pub.dev/packages/hive)**: A lightweight and fast key-value database written in pure Dart.
-- **[sqflite](https://pub.dev/packages/sqflite)**: SQLite support for Flutter, providing local storage with a relational database.
 - **[Shared Preferences](https://pub.dev/packages/shared_preferences)**: A simple way to persist key-value pairs locally on a device.
 - **[floor](https://pub.dev/packages/floor)**: Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library.
 ## Notifications
