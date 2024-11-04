@@ -12,7 +12,6 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Courses](#courses)
 - [Libraries and Tools](#libraries-and-tools)
 - [Communities and Forums](#communities-and-forums)
-- [Additional Resources](#additional-resources)
 ---
 
 ### Official Documentation
@@ -185,7 +184,6 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## Dev Tools
 - **[Flutter DevTools](https://flutter.dev/docs/development/tools/devtools/overview)**: A suite of performance and debugging tools for Flutter apps.
 - **[FVM (Flutter Version Management)](https://pub.dev/packages/fvm)**: A tool for managing multiple Flutter SDK versions on a single machine.
-- **[Melos](https://pub.dev/packages/melos)**: A tool for managing Flutter and Dart monorepos, useful for working with multiple packages.
 ## Animation and Motion
 - **[Lottie](https://pub.dev/packages/lottie)**: A library for rendering JSON-based animations (from After Effects) in Flutter.
 - **[rive](https://pub.dev/packages/rive)**: An animation library for interactive vector animations created with Rive.
@@ -193,14 +191,11 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[Hive](https://pub.dev/packages/hive)**: A lightweight and fast key-value database written in pure Dart.
 - **[sqflite](https://pub.dev/packages/sqflite)**: SQLite support for Flutter, providing local storage with a relational database.
 - **[Shared Preferences](https://pub.dev/packages/shared_preferences)**: A simple way to persist key-value pairs locally on a device.
+- **[floor](https://pub.dev/packages/floor)**: Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library.
 ## Notifications
 - **[firebase_messaging](https://pub.dev/packages/firebase_messaging)**: Supports push notifications using Firebase Cloud Messaging.
 - **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
 
-### Additional Resources
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter) - A list of other curated Flutter resources
-- [Flutter Samples](https://github.com/flutter/samples) - Official Flutter sample projects
-- [Flutter Gems](https://fluttergems.dev/) - A curated list of Flutter packages and plugins
 
 ---
 
