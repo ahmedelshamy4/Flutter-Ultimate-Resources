@@ -179,9 +179,9 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 ---
 ## Courses
-- [Udacity Flutter Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Free course on Flutter basics
-- [Academind's Flutter - The Complete Guide](https://academind.com) - Comprehensive course covering all Flutter fundamentals
-- [App Brewery - Complete Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Beginner to advanced level
+- [Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=LETSLEARNNOW)
+- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=LETSLEARNNOW) 
+- [Flutter Shop App | State Management BLoC | Backend [2024]](https://www.udemy.com/course/course-selling-online-app-using-flutter-for-ios-and-android/?couponCode=LETSLEARNNOW) 
 ---
 ## Podcasts
 - [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
@@ -268,3 +268,4 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
+---
