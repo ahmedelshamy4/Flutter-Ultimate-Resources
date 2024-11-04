@@ -187,8 +187,8 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
 - [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
 ---
-### Libraries and Tools
-## State Management
+## Libraries and Tools
+### State Management
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
 - **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
 - **[Riverpod](https://riverpod.dev/)**: A more modern, flexible, and safer version of Provider with better testability and compile-time safety.
