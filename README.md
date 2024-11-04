@@ -16,7 +16,7 @@ If you find this repository helpful, please feel free to support it by giving it
 ---
 
 ### Official Documentation
-- [Flutter Documentation](https://flutter.dev/docs)
+- [Flutter Documentation](https://docs.flutter.dev/)
 - [Dart Documentation](https://dart.dev/guides)
 - [Flutter API Reference](https://api.flutter.dev/)
 
