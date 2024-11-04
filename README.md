@@ -20,18 +20,18 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ---
 
 ## Official Documentation
-- [Flutter Documentation](https://docs.flutter.dev/)
 - [Dart Documentation](https://dart.dev/guides)
+- [Flutter Documentation](https://docs.flutter.dev/)
 - [Flutter Complete Roadmap](https://roadmap.sh/flutter)
 - [Testing](https://docs.flutter.dev/cookbook/testing)
 - [Unit Testing in Flutter: From Workflow Essentials to Complex Scenarios](https://www.toptal.com/flutter/unit-testing-flutter)
 ---
 ## YouTube Channels
 - <a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="32" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>Free Flutter Course For Beginner</span>
   </a>  
-  *Complete beginner to a Flutter developer by Vandad Nahavandipoor 👉*
+  *developer by Vandad Nahavandipoor 👉*
 
 - <a href="https://www.youtube.com/@flutterwidgets3474" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
