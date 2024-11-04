@@ -238,7 +238,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[chewie](https://pub.dev/packages/chewie)**: A customizable video player for Flutter built on top of video_player.
 ### Permissions
 - **[permission_handler](https://pub.dev/packages/permission_handler)**: A plugin to request and manage permissions in Flutter, such as camera, location, and storage access.
-### Maps and Geolocation
+#### Maps and Geolocation
 - **[google_maps_flutter](https://pub.dev/packages/google_maps_flutter)**: Google's official plugin for embedding Google Maps in Flutter apps.
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
