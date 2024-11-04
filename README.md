@@ -11,7 +11,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Books](#books)
 - [Courses](#courses)
 - [Libraries and Tools](#libraries-and-tools)
-- [Communities and Forums](#communities-and-forums)
+- [Podcasts](#podcasts)
 ---
 
 ### Official Documentation
@@ -214,13 +214,11 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[location](https://pub.dev/packages/location)**: Provides the device’s GPS coordinates, useful for tracking and mapping apps.
 - **[geolocator](https://pub.dev/packages/geolocator)**: A comprehensive package for handling geolocation and distance calculation.s.
 
-
-
 ---
 
-## Contributing
-We welcome contributions! Please feel free to submit a pull request to add resources or improve the existing content.
-
+## Podcasts
+- [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
+- [Universo Flutter](https://open.spotify.com/show/4AlxqGkkrqe0mfIx3Mi7Xt)
 ---
 
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
