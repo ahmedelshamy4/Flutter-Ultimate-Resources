@@ -142,6 +142,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
   * Flutter Learn YouTube channel Always building stuff 👉*
 
 ### Blogs
+- [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides by a Flutter expert
 - [Reso Coder](https://resocoder.com/) - In-depth tutorials on Flutter and clean architecture
