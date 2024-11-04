@@ -171,17 +171,21 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## JSON Serialization
 - **[json_serializable](https://pub.dev/packages/json_serializable)**: A code generation library to make JSON serialization easier and more consistent.
 - **[built_value](https://pub.dev/packages/built_value)**: A library for building immutable objects and managing JSON serialization with code generation.
+- 
 ## Dependency Injection
 - **[GetIt](https://pub.dev/packages/get_it)**: A service locator for dependency injection, useful for managing dependencies and singleton instances.
 - **[injectable](https://pub.dev/packages/injectable)**: A code generation library to make dependency injection easier when using GetIt.
+- 
 ## UI Components
 - **[Flutter SVG](https://pub.dev/packages/flutter_svg)**: A library to render SVG files in Flutter.
 - **[cached_network_image](https://pub.dev/packages/cached_network_image)**: Caches network images to reduce data usage and improve performance.
 - **[shimmer](https://pub.dev/packages/shimmer)**: Adds a shimmer effect while loading content, providing a smoother loading experience.
+
 - ## Testing
 - **[mockito](https://pub.dev/packages/mockito)**: A popular library for creating mock objects in Dart tests.
 - **[flutter_test](https://pub.dev/packages/flutter_test)**: The official Flutter testing package for unit, widget, and integration tests.
 - **[bloc_test](https://pub.dev/packages/bloc_test)**: A testing library specifically for BLoC, allowing easy testing of events and states.
+- 
 ## Dev Tools
 - **[Flutter DevTools](https://flutter.dev/docs/development/tools/devtools/overview)**: A suite of performance and debugging tools for Flutter apps.
 - **[FVM (Flutter Version Management)](https://pub.dev/packages/fvm)**: A tool for managing multiple Flutter SDK versions on a single machine.
