@@ -15,6 +15,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Icons](#icons)
 - [Colors](#colors)
 - [Community](#community)
+- [Articles](#articles)
 ---
 
 ### Official Documentation
@@ -228,7 +229,15 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ---
 ## Colors
 - [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
-
+---
+---
+## Articles
+- [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
+- [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
+- [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
+- [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
+- [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
+---
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
 - [Discord](https://fluttercommunity.slack.com/join/shared_invite/zt-2ri0hsq9v-7akQSN3NhqwIPpY45Y0E1A#/shared-invite/email), Chat with GDEs and other Flutter community members.
@@ -236,6 +245,5 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Reddit](https://www.reddit.com/r/FlutterDev/?rdt=39725), Join the subreddit for discussions around every aspect of Flutter.
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
 - [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
-
 ---
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
