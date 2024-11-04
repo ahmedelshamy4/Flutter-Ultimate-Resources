@@ -185,6 +185,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
 - [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
 - [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
+- [https://www.linkedin.com/pulse/best-practices-building-high-performance-flutter-apps-lisa-aston-hvxhc/?trackingId=YJx%2BlR24RdC469XUhQpxiQ%3D%3D), Discover essential best practices for building high-performance Flutter apps. Learn optimization techniques, coding standards, and tools to enhance your app's speed, efficiency, and user experience.
 ---
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
