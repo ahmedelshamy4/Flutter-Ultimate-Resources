@@ -22,7 +22,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [Dart Documentation](https://dart.dev/guides)
 - [Flutter API Reference](https://api.flutter.dev/)
-  
+---
 ### YouTube Channels
 - <a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
@@ -143,7 +143,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span>Karem Ebrahim</span>
   </a>  
   * Flutter Learn YouTube channel Always building stuff 👉*
-
+---
 ### Blogs
 - [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
 - [Flutter On Medium](https://medium.com/flutter) -  Different topics, and articles about Flutter.
@@ -153,15 +153,15 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides by a Flutter expert
 - [Reso Coder](https://resocoder.com/) - In-depth tutorials on Flutter and clean architecture
 - [Flutter Gems](https://fluttergems.dev/) -  A curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality.
-
+---
 ### Books
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
-
+---
 ### Courses
 - [Udacity Flutter Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Free course on Flutter basics
 - [Academind's Flutter - The Complete Guide](https://academind.com) - Comprehensive course covering all Flutter fundamentals
 - [App Brewery - Complete Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Beginner to advanced level
-
+---
 ## Podcasts
 - [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
 - [Universo Flutter](https://open.spotify.com/show/4AlxqGkkrqe0mfIx3Mi7Xt)
