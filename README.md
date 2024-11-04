@@ -79,7 +79,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>Code2Start</span>
   </a>  
-  *Arabic course on Flutter. Learn the most in-demand coding skills and newest technologies with Code2Start.by Mohamed Fathy Taha*
+  *Learn the most in-demand coding skills and newest technologies with Code2Start.by Mohamed Fathy Taha*
 
 - <a href="https://www.youtube.com/@HeyFlutter" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
@@ -104,6 +104,18 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span>Robert Brunhage</span>
   </a>  
   *I'm Robert Brunhage from Sweden, a Software Engineer, Designer and a Flutter and Dart GDE who makes a lot of cool projects with tools like Flutter (we even made a game with it).*
+
+- <a href="https://www.youtube.com/@FilledStacks/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>FilledStacks</span>
+  </a>  
+  *Helping Businesses Build Premium, High Quality Software 👉*
+
+- <a href="https://www.youtube.com/@flutterdev" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Flutter</span>
+  </a>  
+  *Welcome to the official Flutter YouTube channel 👉*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
