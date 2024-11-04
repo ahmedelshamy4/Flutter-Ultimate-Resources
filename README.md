@@ -197,7 +197,17 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
 ## Internationalization (i18n)
 - **[intl](https://pub.dev/packages/intl)**: Provides internationalization and localization, allowing for date formatting, number formatting, and messages in different languages.
-- **[flutter_localizations](https://pub.dev/packages/flutter_localization)**: : Official localization package by Flutter, useful for localizing your app with pre-built locale data.
+- **[flutter_localizations](https://pub.dev/packages/flutter_localization)**: Official localization package by Flutter, useful for localizing your app with pre-built locale data.
+## Security and Encryption
+- **[flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)**: Provides a secure storage solution for storing sensitive data like tokens and passwords.
+- **[encrypt](https://pub.dev/packages/encrypt)**: A package for encrypting and decrypting data, useful for securing sensitive information.
+- **[biometric_storage](https://pub.dev/packages/biometric_storage)**: Adds biometric authentication to securely store sensitive information.
+## Audio and Video
+- **[just_audio](https://pub.dev/packages/just_audio)**: A simple yet powerful audio player for Flutter, suitable for music and podcasts.
+- **[audioplayers](https://pub.dev/packages/audioplayers)**: An easy-to-use audio player package supporting multiple formats.
+- **[video_player](https://pub.dev/packages/video_player)**: An official Flutter plugin for playing videos, both online and offline.
+- **[chewie](https://pub.dev/packages/chewie)**: A customizable video player for Flutter built on top of video_player.
+
 
 
 ---
