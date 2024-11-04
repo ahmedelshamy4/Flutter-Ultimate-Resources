@@ -21,7 +21,10 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Flutter API Reference](https://api.flutter.dev/)
 
 ### YouTube Channels
-- [![YouTube](https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png) **The Net Ninja - Flutter & Dart**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0d_aBmBWz8yVMiuJ3-)  
+- [![YouTube](https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png)] (https://www.youtube.com/@MaxonFlutter)  
+  *Max on Flutter Project-based learning with tutorials on how to build apps from scratch using Flutter.*
+- 
+- [![YouTube](https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png)] (https://www.youtube.com/@MaxonFlutter)  
   *A beginner-friendly course covering both basics and advanced Flutter concepts.*
 
 ### Blogs
