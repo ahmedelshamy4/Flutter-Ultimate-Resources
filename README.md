@@ -23,7 +23,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Dart Documentation](https://dart.dev/guides)
 - [Flutter API Reference](https://api.flutter.dev/)
 ---
-### YouTube Channels
+## YouTube Channels
 - <a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>Free Flutter Course For Beginner</span>
@@ -144,7 +144,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
   </a>  
   * Flutter Learn YouTube channel Always building stuff 👉*
 ---
-### Blogs
+## Blogs
 - [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
 - [Flutter On Medium](https://medium.com/flutter) -  Different topics, and articles about Flutter.
 - [Flutter Awesome](https://flutterawesome.com/) -  a directory of projects built with the Flutter community.
@@ -157,7 +157,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ### Books
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 ---
-### Courses
+## Courses
 - [Udacity Flutter Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Free course on Flutter basics
 - [Academind's Flutter - The Complete Guide](https://academind.com) - Comprehensive course covering all Flutter fundamentals
 - [App Brewery - Complete Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Beginner to advanced level
@@ -187,7 +187,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
 - [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
 ---
-### Libraries and Tools
+## Libraries and Tools
 ## State Management
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
 - **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
