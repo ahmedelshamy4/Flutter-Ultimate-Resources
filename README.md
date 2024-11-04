@@ -12,6 +12,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Courses](#courses)
 - [Libraries and Tools](#libraries-and-tools)
 - [Podcasts](#podcasts)
+- [Icons](#icons)
 ---
 
 ### Official Documentation
@@ -219,6 +220,9 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ## Podcasts
 - [Flutter Talks](https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/)
 - [Universo Flutter](https://open.spotify.com/show/4AlxqGkkrqe0mfIx3Mi7Xt)
+---
+## Icons
+- [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
 ---
 
 Thank you for visiting! If you find this repository helpful, don't forget to ⭐ it!
