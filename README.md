@@ -164,13 +164,42 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
 - **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
 - **[Riverpod](https://riverpod.dev/)**: A more modern, flexible, and safer version of Provider with better testability and compile-time safety.
-
-- [Dio](https://pub.dev/packages/dio) - Powerful HTTP client for making API requests
-
+## HTTP and Networking
+- **[Dio](https://pub.dev/packages/dio)**: A powerful HTTP client for Dart, supporting interceptors, global configuration, FormData, and more.
+- **[http](https://pub.dev/packages/http)**: A basic, easy-to-use HTTP client for making network requests.
+- **[GraphQL](https://pub.dev/packages/graphql_flutter)**: A GraphQL client for Flutter, making it easy to query and mutate data with GraphQL APIs.
+## JSON Serialization
+- **[json_serializable](https://pub.dev/packages/json_serializable)**: A code generation library to make JSON serialization easier and more consistent.
+- **[built_value](https://pub.dev/packages/built_value)**: A library for building immutable objects and managing JSON serialization with code generation.
+## Dependency Injection
+- **[GetIt](https://pub.dev/packages/get_it)**: A service locator for dependency injection, useful for managing dependencies and singleton instances.
+- **[injectable](https://pub.dev/packages/injectable)**: A code generation library to make dependency injection easier when using GetIt.
+## UI Components
+- **[Flutter SVG](https://pub.dev/packages/flutter_svg)**: A library to render SVG files in Flutter.
+- **[cached_network_image](https://pub.dev/packages/cached_network_image)**: Caches network images to reduce data usage and improve performance.
+- **[shimmer](https://pub.dev/packages/shimmer)**: Adds a shimmer effect while loading content, providing a smoother loading experience.
 ### Communities and Forums
 - [Flutter Dev on Discord](https://discord.com/invite/flutter) - Chat and collaborate with Flutter developers
 - [Flutter on Reddit](https://www.reddit.com/r/FlutterDev/) - Community of Flutter enthusiasts
 - [Flutter Gitter](https://gitter.im/flutter/flutter) - Chat room for Flutter discussions
+- ## Testing
+- **[mockito](https://pub.dev/packages/mockito)**: A popular library for creating mock objects in Dart tests.
+- **[flutter_test](https://pub.dev/packages/flutter_test)**: The official Flutter testing package for unit, widget, and integration tests.
+- **[bloc_test](https://pub.dev/packages/bloc_test)**: A testing library specifically for BLoC, allowing easy testing of events and states.
+## Dev Tools
+- **[Flutter DevTools](https://flutter.dev/docs/development/tools/devtools/overview)**: A suite of performance and debugging tools for Flutter apps.
+- **[FVM (Flutter Version Management)](https://pub.dev/packages/fvm)**: A tool for managing multiple Flutter SDK versions on a single machine.
+- **[Melos](https://pub.dev/packages/melos)**: A tool for managing Flutter and Dart monorepos, useful for working with multiple packages.
+## Animation and Motion
+- **[Lottie](https://pub.dev/packages/lottie)**: A library for rendering JSON-based animations (from After Effects) in Flutter.
+- **[rive](https://pub.dev/packages/rive)**: An animation library for interactive vector animations created with Rive.
+## Database and Storage
+- **[Hive](https://pub.dev/packages/hive)**: A lightweight and fast key-value database written in pure Dart.
+- **[sqflite](https://pub.dev/packages/sqflite)**: SQLite support for Flutter, providing local storage with a relational database.
+- **[Shared Preferences](https://pub.dev/packages/shared_preferences)**: A simple way to persist key-value pairs locally on a device.
+## Notifications
+- **[firebase_messaging](https://pub.dev/packages/firebase_messaging)**: Supports push notifications using Firebase Cloud Messaging.
+- **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
 
 ### Additional Resources
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - A list of other curated Flutter resources
