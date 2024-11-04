@@ -143,9 +143,13 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 
 ### Blogs
 - [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
-- [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
+- [Flutter On Medium](https://medium.com/flutter) -  Different topics, and articles about Flutter.
+- [Flutter Awesome](https://flutterawesome.com/) -  a directory of projects built with the Flutter community.
+- [Flutter Community on Medium](https://medium.com/flutter-community) -   Flutter Tutorials, Articles, and related topics.
+- [Code With Andrea](https://codewithandrea.com/) -   Flutter, and firebase related articles and step-by-step tutorials.
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides by a Flutter expert
 - [Reso Coder](https://resocoder.com/) - In-depth tutorials on Flutter and clean architecture
+- [Flutter Gems](https://fluttergems.dev/) -  A curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality.
 
 ### Books
 - [Flutter Complete Reference](https://www.amazon.com/Flutter-Complete-Reference) - A thorough guide for building production-ready Flutter apps
