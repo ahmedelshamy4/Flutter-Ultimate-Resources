@@ -22,16 +22,22 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 
 ### YouTube Channels
 - <a href="https://www.youtube.com/@MaxonFlutter" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="24" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>Max on Flutter</span>
   </a>  
   *Project-based learning with tutorials on how to build apps from scratch using Flutter.*
 
 - <a href="https://www.youtube.com/@flutterwidgets3474" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="24" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span>FLUTTER WIDGETS</span>
   </a>  
   *Videos of basic properties of every flutter widgets.*
+
+- <a href="https://www.youtube.com/@CodeWithAndrea" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>FLUTTER WIDGETS</span>
+  </a>  
+  *Tutorials about learning Flutter.*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
