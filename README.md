@@ -21,7 +21,7 @@ If you find this repository helpful, please feel free to support it by giving it
 - [Flutter API Reference](https://api.flutter.dev/)
 
 ### YouTube Channels
-- [Flutter](https://www.youtube.com/flutterdev) - The official Flutter channel
+- [Flutter](https://www.youtube.com/@flutterdev) - The official Flutter channel
 - [Fireship](https://www.youtube.com/c/Fireship) - Quick, high-energy Flutter tutorials
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - Complete Flutter series for beginners
 
