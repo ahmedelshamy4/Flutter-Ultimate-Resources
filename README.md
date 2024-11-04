@@ -18,7 +18,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Articles](#articles)
 ---
 
-### Official Documentation
+## Official Documentation
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [Dart Documentation](https://dart.dev/guides)
 - [Flutter API Reference](https://api.flutter.dev/)
@@ -154,7 +154,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Reso Coder](https://resocoder.com/) - In-depth tutorials on Flutter and clean architecture
 - [Flutter Gems](https://fluttergems.dev/) -  A curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality.
 ---
-### Books
+## Books
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 ---
 ## Courses
@@ -187,7 +187,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
 - [Breaking changes](https://groups.google.com/g/flutter-announce), Get news of breaking changes directly in your inbox.
 ---
-## Libraries and Tools
+### Libraries and Tools
 ## State Management
 - **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
 - **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
