@@ -23,7 +23,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ### YouTube Channels
 - <a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
-    <span> Free Flutter Course For Beginner</span>
+    <span>Free Flutter Course For Beginner</span>
   </a>  
   *Complete beginner to a Flutter developer by Vandad Nahavandipoor*
 
@@ -41,19 +41,19 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 
 - <a href="https://www.youtube.com/@CodeWithAndrea" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
-    <span> Code With Andrea</span>
+    <span>Code With Andrea</span>
   </a>  
   *Tutorials about learning Flutter.*
 
 - <a href="https://www.youtube.com/@Flutterly" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
-    <span> Flutterly</span>
+    <span>Flutterly</span>
   </a>  
   *Top Tier Development*
 
 - <a href="https://www.youtube.com/@RivaanRanawat/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
-    <span> Rivaan Ranawat</span>
+    <span>Rivaan Ranawat</span>
   </a>  
   *Top Development with Rivaan Ranawat*
 
@@ -62,6 +62,18 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span>The Flutter Way</span>
   </a>  
   *Improve your flutter skill*
+
+- <a href="https://www.youtube.com/@MarcusNg" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Marcus Ng</span>
+  </a>  
+  *Learn Flutter and create amazing apps.*
+
+- <a href="https://www.youtube.com/@FlutterMapp" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Flutter Mapp</span>
+  </a>  
+  *Flutter is a UI Toolkit built by Google which use Dart programming Language and is used to build any Mobile Apps. We code Flutter apps on the channel and make coding related videos.*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
