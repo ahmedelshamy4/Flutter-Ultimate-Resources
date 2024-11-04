@@ -150,6 +150,18 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span>Romain Girou</span>
   </a>  
   * Building a community of free and empowered people.👉*
+  
+- <a href="https://www.youtube.com/@fullstackschool7177/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Fullstack School</span>
+  </a>  
+  * Always a learner .👉*
+
+- <a href="https://www.youtube.com/@flutterguys/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Flutter Guys</span>
+  </a>  
+  * Let's learn more .👉*
 ---
 ## Blogs
 - [Flutter Official Website](https://flutter.dev/) - Flutter official website, docs, and much more.
@@ -185,7 +197,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
 - [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
 - [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
-- [Best Practices for Building High-Performance Flutter Apps](https://medium.com/@expertappdevs/performance-best-practices-in-flutter-4579a7a265da), Discover essential best practices for building high-performance Flutter apps. Learn optimization techniques, coding standards, and tools to enhance your app's speed, efficiency, and user experience.
+- [Best Practices for Building High-Performance Flutter Apps](https://www.linkedin.com/pulse/best-practices-building-high-performance-flutter-apps-lisa-aston-hvxhc/?trackingId=6KguvA61TmShY5j9K8JlfQ%3D%3D), Discover essential best practices for building high-performance Flutter apps. Learn optimization techniques, coding standards, and tools to enhance your app's speed, efficiency, and user experience.
 - [Unlocking High Performance: Best Practices for Flutter App Development](https://medium.com/@sukhkmr19/unlocking-high-performance-best-practices-for-flutter-app-380b63bd9617)
 ---
 ## Community
