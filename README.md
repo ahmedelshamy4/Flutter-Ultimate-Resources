@@ -23,9 +23,9 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 ### YouTube Channels
 - <a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
-    <span> Free Flutter Course by Vandad Nahavandipoor</span>
+    <span> Free Flutter Course For Beginner</span>
   </a>  
-  *Complete beginner to a Flutter developer.*
+  *Complete beginner to a Flutter developer by Vandad Nahavandipoor*
   
 - <a href="https://www.youtube.com/@MaxonFlutter" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
@@ -44,6 +44,12 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
     <span> Code With Andrea</span>
   </a>  
   *Tutorials about learning Flutter.*
+
+- <a href="https://www.youtube.com/@Flutterly" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span> Flutterly</span>
+  </a>  
+  *Top Tier Development*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
