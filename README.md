@@ -228,6 +228,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[built_value](https://pub.dev/packages/built_value)**: A library for building immutable objects and managing JSON serialization with code generation.
 #### Code Generation
 - **[build_runner](https://pub.dev/packages/build_runner)**: Essential for generating code in Flutter projects, often used with other packages like json_serializable.
+- **[freezed](https://pub.dev/packages/freezed)**: A powerful code generation package that simplifies data classes and union types.
 #### Dependency Injection
 - **[GetIt](https://pub.dev/packages/get_it)**: A service locator for dependency injection, useful for managing dependencies and singleton instances.
 - **[injectable](https://pub.dev/packages/injectable)**: A code generation library to make dependency injection easier when using GetIt.
@@ -247,7 +248,7 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - **[rive](https://pub.dev/packages/rive)**: An animation library for interactive vector animations created with Rive.
 #### Database and Storage
 - **[Shared Preferences](https://pub.dev/packages/shared_preferences)**: A simple way to persist key-value pairs locally on a device.
-- **[floor](https://pub.dev/packages/floor)**: Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library.
+- **[floor](https://pub.dev/packages/floor)**:  A persistence library for SQLite with a simpler API and active record support.
 #### Notifications
 - **[firebase_messaging](https://pub.dev/packages/firebase_messaging)**: Supports push notifications using Firebase Cloud Messaging.
 - **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)**: A plugin for displaying local notifications on iOS and Android.
@@ -285,5 +286,15 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 #### Payment and In-App Purchases
 - **[in_app_purchase](https://pub.dev/packages/in_app_purchase)**:  A package for integrating in-app purchases on iOS and Android.
 - **[stripe_payment](https://pub.dev/documentation/stripe_payment/latest/)**:  Provides a simple way to integrate Stripe for payments, widely used in mobile apps.
+#### Firebase and Backend Integration
+- **[firebase_auth](https://pub.dev/packages/firebase_auth)**:  Firebase’s official authentication library, supporting email, phone, and social login.
+- **[cloud_firestore](https://pub.dev/packages/cloud_firestore)**:  A plugin for integrating Firestore, Google’s NoSQL database, with Flutter apps.
+#### Image Processing & Media
+- **[image_picker](https://pub.dev/packages/image_picker)**:  Allows picking images and videos from the device’s gallery or camera.
+- **[flutter_image_compress](https://pub.dev/packages/flutter_image_compress)**:  Compresses images to reduce file size and optimize performance.
+- **[video_player](https://pub.dev/packages/video_player)**:  The official Flutter package for playing videos on iOS, Android, and web.
+#### Social Media Integration
+- **[flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth)**:  Integrates Facebook login in Flutter apps.
+- **[google_sign_in](https://pub.dev/packages/google_sign_in)**:  Integrates Google sign-in authentication.
 
 ---
