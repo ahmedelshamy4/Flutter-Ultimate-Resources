@@ -117,6 +117,24 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
   </a>  
   *Welcome to the official Flutter YouTube channel 👉*
 
+- <a href="https://www.youtube.com/@tharwatsamy/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>ثروت سامي | Tharwat Samy</span>
+  </a>  
+  * Flutter Learn YouTube channel 👉*
+
+- <a href="https://www.youtube.com/@OmarAhmedx14" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Omar Ahmed</span>
+  </a>  
+  * Flutter Learn YouTube channel 👉*
+
+- <a href="https://www.youtube.com/@variablex123" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Variable X</span>
+  </a>  
+  * Flutter Learn YouTube channel 👉*
+
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides by a Flutter expert
