@@ -21,6 +21,11 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [Flutter API Reference](https://api.flutter.dev/)
 
 ### YouTube Channels
+- <a href="https://www.youtube.com/@MaxonFlutter" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="18" height="18" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>Max on Flutter</span>
+  </a>  
+  *Project-based learning with tutorials on how to build apps from scratch using Flutter.*
 - [![YouTube](https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png)] (https://www.youtube.com/@MaxonFlutter)  
   *Max on Flutter Project-based learning with tutorials on how to build apps from scratch using Flutter.*
 - 
