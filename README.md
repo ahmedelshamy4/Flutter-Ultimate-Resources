@@ -51,11 +51,17 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
   </a>  
   *Top Tier Development*
 
-- <a href="https://www.youtube.com/@Flutterly" style="display: inline-flex; align-items: center; text-decoration: none;">
+- <a href="https://www.youtube.com/@RivaanRanawat/playlists" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
     <span> Rivaan Ranawat</span>
   </a>  
-  *Top Tier Development with Rivaan Ranawat*
+  *Top Development with Rivaan Ranawat*
+
+- <a href="https://www.youtube.com/@TheFlutterWay" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/ahmedelshamy4/Flutter-Ultimate-Resources/blob/main/assets/youtube_logo.png" alt="YouTube" width="32" height="24" style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; margin-right: 6px;">
+    <span>The Flutter Way</span>
+  </a>  
+  *Improve your flutter skill*
 
 ### Blogs
 - [Flutter Blog](https://medium.com/flutter) - Official Flutter blog on Medium
