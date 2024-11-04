@@ -160,8 +160,11 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [App Brewery - Complete Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Beginner to advanced level
 
 ### Libraries and Tools
-- [Provider](https://pub.dev/packages/provider) - Official package for state management
-- [Flutter Bloc](https://bloclibrary.dev/#/) - Popular library for implementing BLoC pattern
+## State Management
+- **[Provider](https://pub.dev/packages/provider)**: A wrapper around `InheritedWidget` to make state management easier and more reusable.
+- **[Bloc](https://pub.dev/packages/flutter_bloc)**: A predictable state management library based on the BLoC (Business Logic Component) pattern.
+- **[Riverpod](https://riverpod.dev/)**: A more modern, flexible, and safer version of Provider with better testability and compile-time safety.
+
 - [Dio](https://pub.dev/packages/dio) - Powerful HTTP client for making API requests
 
 ### Communities and Forums
