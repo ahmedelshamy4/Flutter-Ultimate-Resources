@@ -202,6 +202,8 @@ Welcome to **Flutter Ultimate Resources**! This repository is a collection of th
 - [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
 - [Best Practices for Building High-Performance Flutter Apps](https://www.linkedin.com/pulse/best-practices-building-high-performance-flutter-apps-lisa-aston-hvxhc/?trackingId=6KguvA61TmShY5j9K8JlfQ%3D%3D), Discover essential best practices for building high-performance Flutter apps. Learn optimization techniques, coding standards, and tools to enhance your app's speed, efficiency, and user experience.
 - [Unlocking High Performance: Best Practices for Flutter App Development](https://medium.com/@sukhkmr19/unlocking-high-performance-best-practices-for-flutter-app-380b63bd9617)
+- [Uploading Your App To The App Store](https://media.licdn.com/dms/document/media/v2/D4D1FAQHKOGHH-qDtjQ/feedshare-document-pdf-analyzed/feedshare-document-pdf-analyzed/0/1730795855425?e=1731542400&v=beta&t=MQCpnluGitjYnJpjJZ5ECEAT6YTPWnl3uIdyW93ebF8)
+ 
 ---
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
